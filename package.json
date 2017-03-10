@@ -15,5 +15,12 @@
     "url": "https://github.com/cleong14/voting-server-redux-tutorial/issues"
   },
   "homepage": "https://github.com/cleong14/voting-server-redux-tutorial#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-preset-es2015": "^6.22.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
 }
